@@ -28,5 +28,6 @@
     "@types/pg": "^8.10.2",
     "typescript": "^5.2.2"
   },
-  "description": ""
+  "description": "",
+  "type": "module"
 }
